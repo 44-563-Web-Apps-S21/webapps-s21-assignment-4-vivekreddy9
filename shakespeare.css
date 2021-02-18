@@ -33,3 +33,12 @@
 .DROMIOOFEPHESUS{
     color: yellow;
 }
+
+table{
+    color: red;
+    text-align: left;
+    padding: 12px;
+    margin: 12px;
+    border-style: double;
+    
+}
